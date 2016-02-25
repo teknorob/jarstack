@@ -31,6 +31,7 @@ proguard/
 .idea/
 
 #Gradle
+gradle.properties
 .gradletasknamecache
 .gradle/
 build/
