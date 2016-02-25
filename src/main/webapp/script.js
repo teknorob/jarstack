@@ -44,5 +44,5 @@
     });
     
     scotchApp.controller('indexController', function($scope) {
-        $scope.message = 'This is the Index Controller';
+        $scope.message = 'This is app is built with spring boot and angularjs\nTry out the /api rest point';
     });
